@@ -1,0 +1,34 @@
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\bin\Debug\CoralReefResortHND2.exe.config
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\bin\Debug\CoralReefResortHND2.exe
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\bin\Debug\CoralReefResortHND2.pdb
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmLogin.resources
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmMainMenu.resources
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmInfo.resources
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmPackageMenu.resources
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmSnorkeling.resources
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmDiving.resources
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmReportDiv.resources
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmReportMenu.resources
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.Properties.Resources.resources
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmReportSnor.resources
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.csproj.GenerateResource.Cache
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.exe
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.pdb
+C:\Users\amie\Desktop\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.csprojResolveAssemblyReference.cache
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\bin\Debug\CoralReefResortHND2.exe.config
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.exe
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.pdb
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\bin\Debug\CoralReefResortHND2.exe
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\bin\Debug\CoralReefResortHND2.pdb
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.csprojResolveAssemblyReference.cache
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmLogin.resources
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmMainMenu.resources
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmInfo.resources
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmPackageMenu.resources
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmSnorkeling.resources
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmDiving.resources
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmReportDiv.resources
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmReportMenu.resources
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.Properties.Resources.resources
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.frmReportSnor.resources
+C:\Users\amie\Desktop\SEM 4 SEM 5\oop saya\CoralReefResortHND2\CoralReefResortHND2\obj\Debug\CoralReefResortHND2.csproj.GenerateResource.Cache
